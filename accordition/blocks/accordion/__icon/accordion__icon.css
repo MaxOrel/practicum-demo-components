@@ -1,0 +1,4 @@
+.accordion__icon {
+    width: 16px;
+    transition: transform 0.3s;
+}

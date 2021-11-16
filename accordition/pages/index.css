@@ -1,0 +1,7 @@
+@import url(../blocks/page/page.css);
+@import url(../blocks/accordion/__button/accordion__button.css);
+@import url(../blocks/accordion/__icon/accordion__icon.css);
+@import url(../blocks/accordion/__icon/_rotated/accordion__icon_rotated.css);
+@import url(../blocks/accordion/__panel/accordion__panel.css);
+@import url(../blocks/accordion/__panel/_opened/accordion__panel_opened.css);
+@import url(../blocks/accordion/__title/accordion__title.css);
